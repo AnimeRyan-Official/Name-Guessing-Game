@@ -7,3 +7,4 @@ Want to do/Achieve list
 - [x] Make the page work on Replit
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] Going to ask Mic if it is good to use Docker?
